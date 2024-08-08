@@ -1,0 +1,10 @@
+{"question": "What is the stock name?", "answer": "APPL"}
+{"question": "What is the candle time frame?", "answer": "5min"}
+{"question": "What is the name of the first indicator?", "answer": "RSI"}
+{"question": "What is the period for RSI?", "answer": "14"}
+{"question": "What is the time frame for RSI?", "answer": "5min"}
+{"question": "What is the name of the second indicator?", "answer": "SMA"}
+{"question": "What is the period for SMA?", "answer": "20"}
+{"question": "What is the time frame for SMA?", "answer": "5min"}
+{"question": "What is the name of the third indicator?", "answer": "EMA"}
+{"question": "What is the period for EMA?", "answer": "20"}
